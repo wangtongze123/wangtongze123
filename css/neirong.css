@@ -1,0 +1,382 @@
+.nrbig1{
+				width: 1500px;
+				height: 500px;
+				/* border: 1px solid red; */
+				position: absolute;
+			}
+			.nrbig1left{
+				width: 1000px;
+				height: 490px;
+				/* border: 1px solid blue; */
+				float: left;
+				position: absolute;
+			}
+				
+			.nrbig1lefttop{
+				width: 1000px;
+				height: 50px;
+				/* border: 1px solid green; */
+			}
+			
+			#gd{
+				position: absolute;
+				right: 0;
+				top: 10px;
+			}
+			hr{
+				/* float: left; */
+				position: absolute;
+				left: 0px;
+				top: 35px;
+				}
+			.nrbig1leftbottom{
+				width: 1000px;
+				height: 400px;
+				/* border: 1px solid #008000; */
+				position: absolute;
+				top: 70px;
+			}	
+			.nrbig1leftbottomleft{
+				width: 400px;
+				height: 400px;
+				/* border: 1px solid #0000FF; */
+				position: absolute;
+				left: 0;
+			}
+			.nrbig1leftbottomleftimg{
+				width: 400px;
+				height: 200px;
+				/* border: 1px solid red; */
+			}
+			.nrbig1leftbottomleftwenzi{
+				width: 400px;
+				height: 200px;
+				position: absolute;
+				background-color: rgb(243,242,240);
+			}
+			#nrbig1leftbottomleftwenzip2{
+				position: absolute;
+				bottom: 0;
+			}
+			#nrbig1leftbottomleftwenzip1{
+				position: absolute;
+				top: 0;
+			}
+			.nrbig1leftbottomright{
+				width: 580px;
+				height: 400px;
+				/* border:1px solid #008000; */
+				position: absolute;
+				right: 0;
+     
+			}
+			#yaowen1{
+				width: 580px;
+				height: 40px;
+				border-bottom: 1px solid #eeeeee;
+				}
+			#yaowen2{
+					width: 580px;
+					height: 40px;
+					border-bottom: 1px solid #eeeeee;
+					}
+			#yaowen3{
+				width: 580px;
+				height: 40px;
+				border-bottom: 1px solid #eeeeee;
+				}
+			#yaowen4{
+				width: 580px;
+				height: 40px;
+				border-bottom: 1px solid #eeeeee;
+				}
+			#yaowen5{
+				width: 580px;
+				height: 40px;
+				border-bottom: 1px solid #eeeeee;
+				}
+			#yaowen6{
+				width: 580px;
+				height: 40px;
+				border-bottom: 1px solid #eeeeee;
+				}
+			#yaowen7{
+				width: 580px;
+				height: 40px;
+				border-bottom: 1px solid #eeeeee;
+				}
+			#yaowen8{
+				width: 580px;
+				height: 40px;
+				border-bottom: 1px solid #eeeeee;
+				}
+			#yaowen9{
+				width: 580px;
+				height: 40px;
+				border-bottom: 1px solid #eeeeee;
+				}
+			#yaowen10{
+				width: 580px;
+				height: 40px;
+				border-bottom: 1px solid #eeeeee;
+				}									
+			.nrbig1right{
+				width: 450px;
+				height: 490px;
+				/* border: 1px solid black; */
+				float: right;
+				
+			}
+		    .nrbig1righttop{
+				width: 450px;
+				height: 50px;
+			/* 	border: 1px solid blue; */
+				position: absolute;
+				}
+			#haibao{
+				position: absolute;
+				left: 100px;
+				top: 0px;
+				
+				
+				}
+			.nrbig1rightbottom{
+				width: 450px;
+				height: 440px;
+				/* border: 1px solid green; */
+				background-color: rgb(239,238,236);
+				margin-top:50px;
+				}
+			#nrbig1rightbottom1{
+				width: 450px;
+				height: 85px;
+				border-bottom: 1px solid rgb(204,204,204);
+				/* position: absolute; */
+			}	
+			#nrbig1rightbottom11{
+				width: 100px;
+				height: 75px;
+				/* border: 1px solid blue; */
+				float: left;
+			}
+			#nrbig1rightbottom12
+			{
+				width: 450px;
+				height: 75px;
+			/* 	border: 1px solid black; */
+				
+			}
+			#nrbig1rightbottom111
+			{
+				width: 100px;
+				height: 36px;
+				background-color: rgb(26,44,128);
+			}
+			#nrbig1rightbottom112
+			{
+				width: 100px;
+				height: 32.5px;
+				background-color:rgb(255,255,255) ;
+			}
+			#nrbig1rightbottom1111
+			{
+				width: 100px;
+				height: 36px;
+				background-color: rgb(148,148,148);
+			}
+			#nrbig1rightbottom1122
+			{
+				width: 100px;
+				height: 32.5px;
+				background-color:rgb(227,228,230) ;
+			}
+			
+			.nrbig2 {
+				width: 1500px;
+				height: 400px;
+				/* border: 1px solid red; */
+				position: absolute;
+			}
+			
+			.nrbig2left {
+				width: 570px;
+				height: 400px;
+				/* border: 1px solid blue; */
+				position: absolute;
+				left: 0;
+			}
+			
+			.nrbig2center {
+				width: 570px;
+				height: 400px;
+				
+				position: absolute;
+				left: 600px;
+			}
+			
+			.max{
+				height: 400px;
+				width: 220px;
+				background-color: #f5f4f2;
+				/* border: 1px solid red; */
+				position: absolute;
+				right: 0;
+			}
+			/* .nrbig2right {
+				width: 300px;
+				height: 400px;
+				border: 1px solid blue;
+				position: absolute;
+				right: 0;
+			} */
+			
+			.nrbig2lefttop {
+				width: 570px;
+				height: 50px;
+				/* border: 1px solid blue; */
+				border-bottom: 1px solid rgb(2, 70, 171);
+			}
+			
+			#gd1 {
+				position: absolute;
+				right: 0;
+				top: 10px;
+			}
+			
+			.nrbig2leftbottom 
+			{
+				width: 570px;
+				height: 350px;
+			}
+			
+				.meiti {
+					width: 570px;
+					height: 50px;
+					/* border: 1px solid orange; */
+					
+				}
+			
+				
+			.big1{
+				width: 100px;
+				height: 120px;
+				/* border: 1px solid blue; */
+				float: left;
+				margin: 5px;
+				background-color: #f5f4f2;
+			}
+				.big2{
+					width: 100px;
+					height: 120px;
+					/* border: 1px solid blue; */
+					float: left;
+					margin: 5px;
+					background-color: #f5f4f2;
+				}
+				.big3{
+					width: 100px;
+					height: 120px;
+					/* border: 1px solid blue; */
+					float: left;
+					margin: 5px;
+					background-color: #f5f4f2;
+				}
+			.min{
+				width: 100px;
+				height: 40px;
+				background-color: #f5f4f2;
+				/* border: 1px solid green; */
+				
+				
+			}
+			.min2{
+				width: 100px;
+				height: 40px;
+				background-color: #f5f4f2;
+				/* border: 1px solid yellow; */
+			}
+			
+			<style type="text/css">
+				
+			.ditu
+			{
+				width: 1500px;
+				height: 200px;
+				/* border: 1px solid red; */
+			}
+			.ditu1
+				{
+					width: 240px;
+					height: 200px;
+					/* border: 1px solid blue ; */
+					float: left;
+					margin: 3px;
+				}
+			
+			.nrbig3
+			{
+				width: 1500px;
+				height: 800px;
+				/* border: 1px solid red; */
+				background:url(../img/school.jpg) ;
+				position: absolute;
+			}
+			
+			
+			.nrbig31
+			{
+				width: 180px;
+				height: 320px;
+				/* border: 1px solid black; */
+				float: left;
+				border-top:1px solid #6392be ;
+				border-left:1px solid darkgrey ;
+				/* position: absolute;
+				top: 0; */
+				margin: 0;
+				}
+			.nrbig311{
+				width: 180px;
+				height: 50px;
+				/* border: 1px solid blue; */
+				}
+			.nrbig312
+			{
+				width: 180px;
+				height: 30px;
+				/* border: 1px solid green; */
+			}
+			.nrbig32
+			{
+				width: 1500px;
+				height: 100px;
+				/* border: 1px solid red; */
+				position: absolute;
+				bottom: 0;
+				}
+			#ngbig321
+			{
+				width: 200px;
+				height: 100px;
+				position: absolute;
+				left: 0;
+				bottom: 0;
+				}
+			#nrbig322
+			{
+				width: 600px;
+				height: 100px;
+				position: absolute;
+				left: 200px;
+				top: 0;
+				bottom: 0;
+				}
+			#nrbig323
+			{
+				width: 200px;
+				height: 100px;
+				position: absolute;
+				right: 0;
+				top: 0;
+				bottom: 0;
+				}

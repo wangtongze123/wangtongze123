@@ -1,0 +1,44 @@
+ li{list-style-type:none;
+			  
+			  }
+			  .biaotou{
+				  background: rgb(0,67,135);
+				  width: 1500px;
+				  height: 200px;
+				/*  border: 1px solid yellow; */
+				  }
+			.biaotou1{
+				width: 800px;
+				height: 200px;
+				float: left;
+				/* margin-right: 200px; */
+				/* border: 1px solid red; */
+				}
+			.biaotou2{
+				height: 50px;
+				width: 500px;
+				float: right;
+		/* 		border: 1px solid black; */
+				}
+			.biaotou3{
+				width: 200px;
+				height: 150px;
+				/* border:1px solid yellow; */
+				  }
+			#lb{
+				width: 1500px;
+				height: 50px;
+				/* border: 1px solid red; */
+				background-color: rgb(26,44,128);
+				position: absolute;
+				}
+			#bl1{
+				position: relative;
+				left: 150px;
+				}
+				
+			#datu{
+				width: 1500px;
+				height: 550px;
+				/* border: 1px solid red; */
+			}
